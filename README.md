@@ -1,2 +1,2 @@
 # Mysql_Project
-# This is the Mysql of Meta Database Courses
+# These are the Mysql codes from Meta Database Courses, uploaded by Danny Lefu Xiao.
